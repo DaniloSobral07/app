@@ -20,3 +20,55 @@ Como um lego, vc irá utilizar peças para criar algoritmos, ou seja, para resol
 Coletar dados
 Processar os dados (manipular, alterar ...)
 Apresentar dados
+
+# Escopo e variáveis
+
+Variáveis globais e locais
+Constantes
+
+# Tipos de dados
+
+String (textos): ""  ''  ``
+Number. 2  1.4
+Boolean: true/false
+
+## Estruturas de dados
+
+### Arrays
+
+Uma lista que contém qualquer tipo de dado
+
+## Objetos:
+
+Atributos e métodos
+Criação e manipulação de objetos
+Acesso a propriedades de objetos
+
+## Functions
+
+-criar, passar argumento 
+-executar
+-arrow function/ named function
+
+## Operadores
+
+Operadores de atribuição de valor   =
+Operadores de contatenação  +
+
+--------------------------Ensinamentos iniciais---------------------------------------------
+
+// hello world
+
+//global
+const mensagem = "olá, eu!"
+
+//local
+{
+  const mensagem = "olá, mundo!"
+  console.log(mensagem)
+}
+
+console.log(mensagem);
+
+-------------------------------------------------------------------------------------------------
+
