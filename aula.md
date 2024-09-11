@@ -72,6 +72,10 @@ console.log(mensagem);
 
 -------------------------------------------------------------------------------------------------
 
-## Estrutura de repetição
+# Estrutura de repetição
 
 While
+
+# Condicionais
+
+Switch
