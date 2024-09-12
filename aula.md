@@ -54,6 +54,7 @@ Acesso a propriedades de objetos
 
 Operadores de atribuição de valor   =
 Operadores de contatenação  +
+Operadores de comparação  ==  !=  >  <  <=  >=
 
 --------------------------Ensinamentos iniciais---------------------------------------------
 
@@ -79,6 +80,7 @@ While
 # Condicionais
 
 Switch
+If/Else
 
 ## Módulos em Node.Js
 
