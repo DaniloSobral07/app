@@ -37,6 +37,7 @@ Boolean: true/false
 ### Arrays
 
 Uma lista que contém qualquer tipo de dado
+Métodos de arrays: push, [find, forEach, filter] : HOF (Higher Order Functions)
 
 ## Objetos:
 
@@ -55,6 +56,7 @@ Acesso a propriedades de objetos
 Operadores de atribuição de valor   =
 Operadores de contatenação  +
 Operadores de comparação  ==  !=  >  <  <=  >=
+Spread operator:  ...
 
 --------------------------Ensinamentos iniciais---------------------------------------------
 
